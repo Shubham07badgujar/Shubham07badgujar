@@ -1,26 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Shubham%## 📊 Performance Analytics & Development Metrics
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham07badgujar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
-  
-</div>
-
-<div align="center">
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham07badgujar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-  
-</div>
-
-### 📈 Contribution Graph & Activity Timeline
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham07badgujar&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" width="100%"/>
-  
-</div>dgujar&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=25"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Shubham%20Badgujar&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=25"/>
 </div>
 
 <div align="center">
@@ -87,7 +66,7 @@ current_status: Building Next-Gen Solutions
 </td>
 <td>
 
-**� Open Source Contributions**
+**🔬 Open Source Contributions**
 - Active Kaggle competitor
 - Multiple hackathon victories
 - Community-driven AI projects
@@ -132,11 +111,11 @@ current_status: Building Next-Gen Solutions
 
 </details>
 
-### � Professional Achievements & Recognition
+### 🏆 Professional Achievements & Recognition
 
 <div align="center">
 
-| � Achievement | 📊 Impact | 🗓️ Year |
+| 🏅 Achievement | 📊 Impact | 🗓️ Year |
 |:---|:---|:---:|
 | **AIR 5 - SAE Aerothon 2024** | National Level Drone Competition | 2024 |
 | **Smart Agriculture Winner** | Multiple Hackathons | 2023-24 |
@@ -144,7 +123,6 @@ current_status: Building Next-Gen Solutions
 | **Kaggle Competitions** | Data Science & ML Challenges | 2023-24 |
 
 </div>
-
 
 ### 🌐 Professional Network & Contact
 
@@ -197,10 +175,28 @@ current_status: Building Next-Gen Solutions
 
 </div>
 
-# � GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shubham07badgujar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shubham07badgujar&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham07badgujar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 Performance Analytics & Development Metrics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham07badgujar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
+  
+</div>
+
+<div align="center">
+  
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham07badgujar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  
+</div>
+
+### 📈 Contribution Graph & Activity Timeline
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham07badgujar&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" width="100%"/>
+  
+</div>
 
 ### 🏆 Achievement Showcase & Recognition
 
@@ -276,23 +272,3 @@ timeline
 </div>
 
 <!-- Development Notes: Enhanced with professional styling, technical vocabulary, and visual elements optimized for GitHub's Markdown renderer -->
-![](https://github-profile-trophy.vercel.app/?username=Shubham07badgujar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Shubham07badgujar&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Shubham07badgujar/Shubham07badgujar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
