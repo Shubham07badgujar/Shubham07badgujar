@@ -218,15 +218,14 @@ timeline
     
     2023 : AI/ML Specialization
          : Computer Vision Projects
-         : Open Source Contributions
-         : First Hackathon Win
+         
     
     2024 : Autonomous Systems
          : AIR 5 SAE Aerothon
-         : Advanced Deep Learning
+         : First Hackathon Win
          : Production Deployments
     
-    2025 : Industry Integration
+    2025 : Open Source Contributions
          : Advanced System Architecture
          : Technical Leadership
          : Innovation & Research
