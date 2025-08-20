@@ -180,18 +180,7 @@ current_status: Building Next-Gen Solutions
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham07badgujar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <!-- Streak: try primary, then fallback provider; final fallback is a static badge -->
-  <picture>
-    <!-- primary (common usage) -->
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
-    <!-- secondary fallback -->
-    <source srcset="https://streak-stats.demolab.com/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
-    <!-- final visual fallback: static badge so README always shows something -->
-    <img width="49%" alt="GitHub Streak (fallback)" src="https://img.shields.io/badge/Current_Streak-Unavailable-lightgrey" />
-  </picture>
-  <div>
-    <small>If the streak image is not visible, it may be due to GitHub API limits or third-party downtime. View full contributions on <a href="https://github.com/Shubham07badgujar">your GitHub profile</a>.</small>
-  </div>
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
   
 </div>
 
