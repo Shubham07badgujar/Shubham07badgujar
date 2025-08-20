@@ -244,55 +244,30 @@ timeline
 
 ### 🎯 Current Focus Areas & Future Roadmap
 
-<div align="center">
-
-<table style="border: none;">
+<table>
 <tr>
-<td align="center" width="23%" style="border: none; padding: 20px;">
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 10px;">
-<h3>🧠</h3>
-<h4 style="color: white; margin: 10px 0;">AI Research</h4>
-<p style="color: #f0f0f0; font-size: 14px;">Advanced ML Models<br>Computer Vision<br>Deep Learning</p>
-</div>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-artificial-intelligence-100-most-used-icons-flaticons-flat-flat-icons.png" width="48"/>
+<br><b>AI Research</b>
+<br>Advanced ML Models
 </td>
-<td align="center" width="23%" style="border: none; padding: 20px;">
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 20px; margin: 10px;">
-<h3>🚁</h3>
-<h4 style="color: white; margin: 10px 0;">Autonomous Systems</h4>
-<p style="color: #f0f0f0; font-size: 14px;">Drone Technology<br>Robotics<br>IoT Systems</p>
-</div>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-drone-drone-flaticons-flat-flat-icons-3.png" width="48"/>
+<br><b>Autonomous Systems</b>
+<br>Drone Technology
 </td>
-<td align="center" width="23%" style="border: none; padding: 20px;">
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 20px; margin: 10px;">
-<h3>💻</h3>
-<h4 style="color: white; margin: 10px 0;">Full Stack</h4>
-<p style="color: #f0f0f0; font-size: 14px;">System Architecture<br>Cloud Computing<br>DevOps</p>
-</div>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-full-stack-web-development-flaticons-flat-flat-icons.png" width="48"/>
+<br><b>Full Stack</b>
+<br>System Architecture
 </td>
-<td align="center" width="23%" style="border: none; padding: 20px;">
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 15px; padding: 20px; margin: 10px;">
-<h3>🌟</h3>
-<h4 style="color: white; margin: 10px 0;">Open Source</h4>
-<p style="color: #f0f0f0; font-size: 14px;">Community Impact<br>Collaboration<br>Innovation</p>
-</div>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-open-source-agile-flaticons-flat-flat-icons.png" width="48"/>
+<br><b>Open Source</b>
+<br>Community Impact
 </td>
 </tr>
 </table>
-
-</div>
-
-### 📈 2025 Roadmap Milestones
-
-<div align="center">
-
-| Quarter | 🎯 Primary Focus | 🚀 Key Deliverables | 📊 Success Metrics |
-|:-------:|:-----------------|:-------------------|:-------------------|
-| **Q1** | **AI/ML Research** | Advanced Computer Vision Models | 2+ Research Papers |
-| **Q2** | **Autonomous Systems** | Drone Fleet Management System | Production Deployment |
-| **Q3** | **Full Stack Innovation** | Cloud-Native Architecture | 5+ Microservices |
-| **Q4** | **Open Source Leadership** | Community Projects & Mentoring | 1000+ GitHub Stars |
-
-</div>
 
 ---
 
