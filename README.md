@@ -180,13 +180,18 @@ current_status: Building Next-Gen Solutions
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham07badgujar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <!-- Streak: primary (github-readme-streak-stats) and fallback (demolab) -->
+  <!-- Streak: try primary, then fallback provider; final fallback is a static badge -->
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
-    <img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
+    <!-- primary (common usage) -->
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
+    <!-- secondary fallback -->
+    <source srcset="https://streak-stats.demolab.com/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
+    <!-- final visual fallback: static badge so README always shows something -->
+    <img width="49%" alt="GitHub Streak (fallback)" src="https://img.shields.io/badge/Current_Streak-Unavailable-lightgrey" />
   </picture>
-  
-  <!-- If both services fail due to GitHub API rate limits, a simple text badge will be shown by viewers' browsers -->
+  <div>
+    <small>If the streak image is not visible, it may be due to GitHub API limits or third-party downtime. View full contributions on <a href="https://github.com/Shubham07badgujar">your GitHub profile</a>.</small>
+  </div>
   
 </div>
 
@@ -200,7 +205,7 @@ current_status: Building Next-Gen Solutions
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham07badgujar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
+  <img src="https://ghchart.rshah.org/Shubham07badgujar" alt="Contribution chart" width="100%" />
   
 </div>
 
