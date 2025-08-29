@@ -180,7 +180,7 @@ current_status: Building Next-Gen Solutions
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham07badgujar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
   
 </div>
 
@@ -194,7 +194,7 @@ current_status: Building Next-Gen Solutions
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham07badgujar&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham07badgujar&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
   
 </div>
 
