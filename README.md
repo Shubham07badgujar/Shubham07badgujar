@@ -180,7 +180,13 @@ current_status: Building Next-Gen Solutions
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham07badgujar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
+  <!-- Streak: primary (github-readme-streak-stats) and fallback (demolab) -->
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
+    <img width="49%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Shubham07badgujar&theme=tokyonight&hide_border=true" />
+  </picture>
+  
+  <!-- If both services fail due to GitHub API rate limits, a simple text badge will be shown by viewers' browsers -->
   
 </div>
 
