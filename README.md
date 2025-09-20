@@ -227,7 +227,7 @@ timeline
     
     2025 : Open Source Contributions
          : Advanced System Architecture
-         : Technical Leadership
+         : Technical Leadership (Drone CLub GCOEJ)
          : Innovation & Research
 ```
 
