@@ -194,7 +194,25 @@ current_status: Building Next-Gen Solutions
 
 <div align="center">
   
-  <img src="https://ghchart.rshah.org/Shubham07badgujar" alt="Contribution chart" width="100%" />
+  <!-- Enhanced Activity Graph with 30-day focus -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham07badgujar&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2030%20Days%20Activity&days=30&height=300" width="100%" />
+  
+</div>
+
+#### 📊 Detailed Contribution Metrics
+
+<div align="center">
+  
+  <!-- Commit Activity Visualization -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubham07badgujar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Overall%20Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shubham07badgujar&theme=tokyonight&hide_border=true&layout=compact" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Last Year Contribution Heatmap -->
+  <img src="https://ghchart.rshah.org/409ba5/Shubham07badgujar" alt="GitHub Contribution Heatmap" width="100%" />
   
 </div>
 
