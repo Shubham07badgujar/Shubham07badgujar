@@ -244,42 +244,30 @@ timeline
 
 ### 🎯 Current Focus Areas & Future Roadmap
 
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="25%">
-<div style="font-size: 48px;">🤖</div>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-artificial-intelligence-100-most-used-icons-flaticons-flat-flat-icons.png" width="48"/>
 <br><b>AI Research</b>
-<br><small>Advanced ML Models</small>
-<br><small>Computer Vision</small>
-<br><small>Deep Learning</small>
+<br>Advanced ML Models
 </td>
 <td align="center" width="25%">
-<div style="font-size: 48px;">🚁</div>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-drone-drone-flaticons-flat-flat-icons-3.png" width="48"/>
 <br><b>Autonomous Systems</b>
-<br><small>Drone Technology</small>
-<br><small>Robotics</small>
-<br><small>IoT Integration</small>
+<br>Drone Technology
 </td>
 <td align="center" width="25%">
-<div style="font-size: 48px;">💻</div>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-full-stack-web-development-flaticons-flat-flat-icons.png" width="48"/>
 <br><b>Full Stack</b>
-<br><small>System Architecture</small>
-<br><small>Web Development</small>
-<br><small>Cloud Computing</small>
+<br>System Architecture
 </td>
 <td align="center" width="25%">
-<div style="font-size: 48px;">🌟</div>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-open-source-agile-flaticons-flat-flat-icons.png" width="48"/>
 <br><b>Open Source</b>
-<br><small>Community Impact</small>
-<br><small>Project Contributions</small>
-<br><small>Technical Writing</small>
+<br>Community Impact
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
