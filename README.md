@@ -205,7 +205,7 @@ current_status: Building Next-Gen Solutions
   
   <!-- Commit Activity Visualization -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubham07badgujar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Overall%20Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham07badgujar&repo=Shubham07badgujar&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shubham07badgujar&theme=tokyonight&hide_border=true&layout=compact" />
   
 </div>
 
