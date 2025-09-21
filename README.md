@@ -199,23 +199,6 @@ current_status: Building Next-Gen Solutions
   
 </div>
 
-#### 📊 Detailed Contribution Metrics
-
-<div align="center">
-  
-  <!-- Commit Activity Visualization -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubham07badgujar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Overall%20Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shubham07badgujar&theme=tokyonight&hide_border=true&layout=compact" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Last Year Contribution Heatmap -->
-  <img src="https://ghchart.rshah.org/409ba5/Shubham07badgujar" alt="GitHub Contribution Heatmap" width="100%" />
-  
-</div>
-
 ### 🏆 Achievement Showcase & Recognition
 
 <div align="center">
